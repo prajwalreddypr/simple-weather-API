@@ -8,7 +8,7 @@ Displays in the following format:
 ENter the city name: Paris
 The complete URL is: http://api.openweathermap.org/data/2.5/weather?q=Paris&appid=630ecab76aa692c8f137017501c9d97b&units=metric
 
-Weather resport for Paris, FR
+Weather report for Paris, FR
 ------------------------------  
 Temperature: 0.07 degree celcius
 Feels like: -3.91 degree celcius
